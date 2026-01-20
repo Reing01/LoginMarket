@@ -1,0 +1,1 @@
+<!-- sitio web integral con inicio de sesión, carrito de compras, administración de usuarios y foro interactivo. Permite agregar productos, gestionar cuentas y subir archivos, ofreciendo una plataforma sencilla para comercio electrónico y comunicación entre usuarios -->
